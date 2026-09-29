@@ -1,0 +1,12 @@
+# CATIA backup / lock files
+*.bck
+*.lck
+
+# Slicer / FreeCAD backups
+*.FCBak
+
+# Office / OS temp
+~$*
+Thumbs.db
+desktop.ini
+.DS_Store
