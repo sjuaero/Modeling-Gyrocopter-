@@ -4,7 +4,7 @@ Dual-pusher motor-based auto-rotation gyrocopter design.
 
 추진용 모터로 전진하면서 **동력이 없는 로터가 자동회전(autorotation)해 양력을 만드는** 소형 자이로콥터를 CATIA V5로 설계하고 3D 프린팅과 카본 프레임으로 제작한 팀 프로젝트입니다. 단발 푸셔형(1호기)에서 **트윈붐 듀얼 푸셔형(2호기)**으로 발전시켰고, 비행 제어는 Pixhawk 6C Mini + PX4로 구성했습니다.
 
-> 제17회 부산대학교 총장배 창의비행체 경진대회 (대학부 · 자이로콥터 부문), 2025 · 6인 팀 프로젝트
+> 제17회 부산대학교 총장배 창의비행체 경진대회 (대학부 · 자이로콥터 부문), 2025 · 5인 팀 프로젝트
 
 <p>
 <img src="docs/images/aircraft_v2_render_1.png" width="32%">
